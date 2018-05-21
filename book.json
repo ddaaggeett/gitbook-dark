@@ -1,0 +1,7 @@
+{
+    "styles": {
+        "website": "styles/styles.css",
+        "pdf": "styles/styles.css",
+        "ebook": "styles/styles.css"
+    }
+}

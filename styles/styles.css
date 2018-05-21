@@ -1,0 +1,36 @@
+.book-body {
+    background-color: #191919;
+    font-family:fantasy;
+}
+.book-body p {
+    font-size: 14px;
+    font-family: Courier;
+    color: white;
+    margin-bottom: 25px;
+}
+.book-body h1 {
+    text-align: right;
+    color: #0f0;
+}
+.book-body h2,
+.book-body h3,
+.book-body h4,
+.book-body h5 {
+    color: #0f0;
+}
+.book-body a {
+    color: #6666ff;
+}
+.book-summary {
+    background-color: #000;
+}
+#book-search-input {
+    background-color: black;
+    color: white;
+}
+#profile-image {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
